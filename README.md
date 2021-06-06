@@ -1,6 +1,6 @@
 # Proyect-Quotes
 
-Este es un proyecto realizado en un curso de Node.js
+Este es un proyecto realizado en un curso de Node.js para visualizar quotes de personajes famosos.
 
 ## Tecnologías utilizadas:
     - NodeJs
